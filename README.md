@@ -1,4 +1,4 @@
-![Q-sqrt](https://raw.githubusercontent.com/carlcorder/carlcorder/master/fisr.svg)
+![Q-sqrt](https://raw.githubusercontent.com/carlcorder/carlcorder/master/qrsqrt.svg)
 
 <!--
 **carlcorder/carlcorder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
