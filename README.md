@@ -9,12 +9,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://twitter.com/carllcorder" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carllcorder" height="20" width="20" />
-    </a>
-    <a href="https://linkedin.com/in/carlcorder" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlcorder" height="20" width="20" />
-    </a>
+  <img align="center" src="https://github.com/carlcorder/carlcorder/blob/master/q-sqrt.svg" alt="qsqrt" height="300" width="580" />
 </p>
 
 <p align="center">
@@ -22,5 +17,10 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/carlcorder/carlcorder/blob/master/q-sqrt.svg" alt="qsqrt" height="300" width="580" />
+    <a href="https://twitter.com/carllcorder" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carllcorder" height="30" width="30" />
+    </a>
+    <a href="https://linkedin.com/in/carlcorder" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlcorder" height="30" width="30" />
+    </a>
 </p>
