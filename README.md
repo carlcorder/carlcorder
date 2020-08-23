@@ -2,10 +2,10 @@
 <h3 align="center">Software Development + Actuarial Science</h3>
 
 <h1 align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100" />
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="100" height="100" />
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100" />
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/postgres.png" alt="postgresql" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/python.png" alt="python" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/javascript.png" alt="javascript" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/java.png" alt="java" width="100" height="100" />
 </h1>
 
 <p align="center">
