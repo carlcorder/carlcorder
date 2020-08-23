@@ -2,7 +2,7 @@
 <h3 align="center">Software Development + Actuarial Science</h3>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/postgres.png" alt="postgresql" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/database.png" alt="database" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/python.png" alt="python" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/javascript.png" alt="javascript" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/carlcorder/carlcorder/master/img/java.png" alt="java" width="100" height="100" />
