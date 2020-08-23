@@ -17,6 +17,12 @@
 </p>
 
 <p align="center">
+  <a href="https://www.buymeacoffee.com/trentacold" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="border-radius: 50px !important;" >
+  </a>  
+</p>
+
+<p align="center">
     <a href="https://twitter.com/carllcorder" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carllcorder" height="30" width="30" />
     </a>
