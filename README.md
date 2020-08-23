@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/trentacold" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="border-radius: 50px !important;" >
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" >
   </a>  
 </p>
 
